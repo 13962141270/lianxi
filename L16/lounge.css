@@ -32,10 +32,11 @@ h2 {
   background-position: top left;
   padding: 25px;
   padding-left: 80px;
-  margin-right: 250px;
+  git config user.email "your.email@example.com"
   border: thin dotted #ffffff;
   border-top-right-radius: 2em;
   border-bottom-left-radius:2em;
+  padding-left: 80px;
 }
 
 #footer {   
