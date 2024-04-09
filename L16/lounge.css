@@ -16,6 +16,7 @@ h1 {
 h2 {
 	font-size: 1.3em;
 }
+
 .guarantee {
   border-color:white;
   border-width:1px;
@@ -41,4 +42,24 @@ h2 {
 
 #footer {   
 	font-size: 1vw; s
+}
+
+.elixirs {
+	border-width: thin;
+	border-style: solid;
+	border-color: #007e7e;
+  width: 200px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+	padding-left: 20px;
+	margin-left: 20px;
+  background-image: url(images/cocktail.gif);
+	background-repeat: repeat-x;
+	text-align: center;
+  line-height: 1em;
+  line-height: 1;
+}
+
+div h2 {
+  color: black;
 }
