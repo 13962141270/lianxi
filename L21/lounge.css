@@ -36,7 +36,7 @@ h2 {
 }
 
 #footer {   
-	font-size: 1vw; s
+	font-size: 1vw; 
 }
 
 .elixirs {
@@ -51,6 +51,7 @@ h2 {
 	text-align: center;
   line-height: 1em;
   line-height: 1;
+  float: right;
 }
 
 div>h2 {
@@ -94,4 +95,26 @@ a:hover {
 .elixirs a:hover {
   background: #f88396;
   color: #0d5353;
+}
+
+.right {
+	float: right;
+}
+
+div.block {
+	width: 45vw;
+	height: 20vh;
+	border: 2px solid black;
+}
+
+.top {
+	margin-bottom: 10px;
+}
+
+.bottom {
+	margin-top: 20px;
+}
+
+.ruler {
+	height: 20px;
 }
