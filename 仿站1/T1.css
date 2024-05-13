@@ -1,0 +1,21 @@
+.both {
+  border-width: thin;
+	border-style: solid;
+	border-color: #007e7e;
+  
+}
+
+.test1 {
+  float: left;
+  margin-left:500px ;
+
+
+}
+
+
+.test2 {
+  float: right;
+  margin-right:500px ;
+
+
+}
