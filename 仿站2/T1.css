@@ -1,0 +1,48 @@
+.both {
+  border-width: thin;
+	border-style: solid;
+	border-color: #007e7e;
+  background-color: black;
+}
+
+.test1 {
+  float: left;
+  margin-left:500px ;
+
+
+}
+
+
+.test2 {
+  float: right;
+  margin-right:500px ;
+
+
+}
+
+.test3 {
+  float: left;
+  margin-left:500px ;
+
+
+}
+
+.test4 {
+  float: right;
+  margin-right:500px ;
+
+
+}
+
+.test5 {
+  position:absolute;
+  clip:rect(-100px 247px 226px 0px);
+
+
+}
+
+float:right;
+background-color:;
+font-style: ;
+font-family: ;
+font-size: ;
