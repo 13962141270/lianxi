@@ -1,0 +1,73 @@
+body{
+  background-color: #3b3b3b;
+
+}
+
+.both{
+margin-left: 110px;
+margin-right: 110px;
+
+}
+.left.right.TopNews{
+  background-color: gray;
+  border-width: thin;
+}
+
+.left{
+  float:left
+  
+}
+
+.right{
+  float: right;
+}
+
+.TopNews{
+  font-family: Arial; 
+  font-size: 50px;
+  color: white;
+}
+.a{
+  font-family: alternate-gothic-no-3-d;
+  font-size: 25px;
+  line-height: 32px;
+  width: 326px;
+  height: 96px;
+  margin:15px 22px 15px 22px;
+  text-align:left;
+}
+
+
+.b{
+  font-size: 14px;
+  line-height: 17px;
+  margin:15px 22px 15px 22px;
+  text-align:center;
+  width: 326px;
+  height: 68px;
+}
+
+
+.c{
+  color: white;
+  float: right;
+  width: 370px;
+  height: 226px;
+  background-color: rgb(26, 25, 25);
+}
+
+/* 未访问状态 */
+a:link {
+  color: white;
+}
+
+/* 已访问状态 */
+a:visited {
+  color:white;
+}
+
+/* 悬停状态 */
+a:hover {
+  color: white;
+}
+
