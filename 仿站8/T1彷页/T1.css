@@ -1,17 +1,17 @@
 body{
-  background-color: #252525;
+  background-color: #3b3b3b;
 
 }
 
 .both{
-  margin:45px 100px 45px 100px ;
-}
+  margin-left: 100px;
+	margin-right: 100px;
 
+}
 .left.right.TopNews{
-  background-color: rgb(54, 54, 54);
+  background-color: gray;
   border-width: thin;
 }
-
 .lefta,.left{
   float:left;
 }
@@ -27,7 +27,7 @@ body{
 
 .TopNews{
   font-family: Arial; 
-  font-size: 65px;
+  font-size: 50px;
   color: white;
 }
 .a{
@@ -55,7 +55,6 @@ body{
   height: 226px;
   background-color: rgb(20, 20, 20);
 }
-
 a:link {
   color:white;
 }
